@@ -1,5 +1,6 @@
 cartesia
-pipecat-ai[google,elevenlabs,websocket,daily]
+pipecat-ai[google,elevenlabs,websocket,daily,silero,openai]
 uvicorn
 build
 python-dotenv
+fastapi[all]
