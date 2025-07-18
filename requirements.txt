@@ -1,4 +1,3 @@
 cartesia
 pipecat-ai[google,elevenlabs,websocket,daily]
 uvicorn
--e ".[anthropic,aws,google,langchain]"
