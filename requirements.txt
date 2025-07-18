@@ -1,3 +1,4 @@
+pipecat-ai
 cartesia
 pipecat-ai[google,elevenlabs,websocket,daily,silero,openai]
 uvicorn
