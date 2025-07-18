@@ -2,3 +2,4 @@ cartesia
 pipecat-ai[google,elevenlabs,websocket,daily]
 uvicorn
 build
+python-dotenv
