@@ -1,9 +1,10 @@
 pipecat-ai
 cartesia
-pipecat-ai[google,elevenlabs,websocket,daily,silero,openai]
+pipecat-ai[google,elevenlabs,websocket,daily,silero,openai,deepgram,webrtc]
 uvicorn
 build
-python-dotenv
 fastapi[all]
 aiortc
 opencv-python
+python-dotenv
+pipecat-ai-small-webrtc-prebuilt
