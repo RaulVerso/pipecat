@@ -4,3 +4,4 @@ uvicorn
 build
 python-dotenv
 fastapi[all]
+aiortc
