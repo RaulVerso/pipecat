@@ -5,6 +5,6 @@ uvicorn
 build
 fastapi[all]
 aiortc
-opencv-python
+opencv-python-headless
 python-dotenv
 pipecat-ai-small-webrtc-prebuilt
