@@ -6,3 +6,4 @@ build
 python-dotenv
 fastapi[all]
 aiortc
+cv2
